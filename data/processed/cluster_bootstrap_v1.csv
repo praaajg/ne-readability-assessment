@@ -1,0 +1,14 @@
+candidate,mae,ci_lo,ci_hi
+formula:flesch_np,2.1875,1.7731,2.649
+formula:fog_np,2.1884,1.7701,2.6537
+formula:ari_np,2.1322,1.7324,2.594
+formula:dale_np,2.166,1.7521,2.6337
+formula:nrs,2.1653,1.768,2.6167
+formula:nci,2.1036,1.7186,2.5392
+formula:halant_ratio,2.1985,1.7674,2.6706
+formula:hunspell_cov,2.1787,1.76,2.6517
+formula:matra_ease,2.2061,1.7743,2.6814
+formula:conj_ease,2.1753,1.7649,2.6347
+model:ridge_baseline,2.1552,1.8,2.5566
+model:lasso_baseline,2.2245,1.84,2.6508
+model:gradboost_baseline,2.0888,1.728,2.4975

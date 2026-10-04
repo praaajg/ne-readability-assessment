@@ -1,0 +1,7 @@
+candidate,n,mae,acc_within1,spearman,pearson
+nci_v1,69598,1.9706,0.2724,0.297,0.2957
+nrs_calib,69598,2.066,0.2781,0.2423,0.1467
+nci_minus_calib_diff,69598,-0.0953,,,
+nci_minus_calib_ci_lo,,-0.0989,,,
+nci_minus_calib_ci_hi,,-0.0918,,,
+nci_minus_calib_p_wilcoxon,,0.0,,,

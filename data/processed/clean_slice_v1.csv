@@ -1,0 +1,15 @@
+candidate,n_full,mae_full,n_clean,mae_clean
+formula:flesch_np,74127,2.1875,64119,2.187
+formula:fog_np,74127,2.1884,64119,2.1888
+formula:ari_np,74127,2.1322,64119,2.1406
+formula:dale_np,74127,2.166,64119,2.1645
+formula:nrs,74127,2.1653,64119,2.1657
+formula:nci,74127,2.1036,64119,2.1171
+formula:halant_ratio,74127,2.1985,64119,2.1944
+formula:hunspell_cov,74127,2.1787,64119,2.1731
+formula:matra_ease,74127,2.2061,64119,2.2026
+formula:conj_ease,74127,2.1753,64119,2.1716
+model:ridge_baseline,74127,2.1552,64119,2.165
+model:lasso_baseline,74127,2.2245,64119,2.2317
+model:gradboost_baseline,74127,2.0888,64119,2.1189
+constant,74127,2.2061,64119,2.2028

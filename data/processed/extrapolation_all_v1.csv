@@ -1,0 +1,5 @@
+candidate,n,mae,acc_within1,spearman,pred_lo,pred_hi
+nci_v1,4529,4.1473,0.0,-0.0682,5.62,9.4
+ridge_baseline,4529,4.0205,0.0344,-0.0468,4.36,31.01
+lasso_baseline,4529,3.9888,0.0322,-0.0945,4.54,27.02
+gradboost_baseline,4529,3.618,0.0,-0.0102,3.19,9.81
